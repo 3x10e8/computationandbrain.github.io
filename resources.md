@@ -71,11 +71,11 @@ Some more domain-specific books:
 
 * [Parallel Distributed Processing (Rumelhart, McClelland - 1986)](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-1)
 
-### Information Theoretic Treatments
+### Information Theory and Neuroscience
 
 * [Spikes: Exploring the Neural Code (Rieke - 1999)](https://mitpress.mit.edu/books/spikes)
 
-### Biophysics Treatments
+### Biophysics and Neuroscience
 
 * [Biophysics of Computation (Koch - 1998)](https://www.amazon.com/Biophysics-Computation-Information-Computational-Neuroscience/dp/0195181999)
 
