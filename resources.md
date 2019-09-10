@@ -47,6 +47,10 @@ There are many online resources that can be helpful for learning the content of 
 
 * [Why Only Us: Language and Evolution](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262034241.001.0001/upso-9780262034241) by Robert Berwick and Noam Chomsky (available via [CLIO](https://clio.columbia.edu/))
 
+### Reinforcement Learning
+
+* [Reinforcement Learning (Sutton and Barto 2018)](http://incompleteideas.net/book/the-book-2nd.html) The full pdf is available from the authors online. Chapter 15 is devoted to the connection between modern RL and neuroscience
+
 ### Algorithms and Machine Learning
 
 * [Foundations of Data Science (Blum, Hopcroft, Kannan)](https://www.cs.cornell.edu/jeh/book.pdf)
