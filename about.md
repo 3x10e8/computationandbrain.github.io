@@ -19,7 +19,7 @@ permalink: /about/
 
 * Office hours:
     * Instructor: TBD 456 Computer Science Building
-    * Dan: TBD
+    * Dan: Tuesdays, 1-2 pm, Computer Science Lounge (Mudd)
     * Jacob: Mondays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
 [Piazza course page](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience)
