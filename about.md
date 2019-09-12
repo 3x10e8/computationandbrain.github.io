@@ -48,11 +48,12 @@ List of topics:
 * Neuron models, perceptron, and hierarchical neural nets
 * Synapses and connectomics
 * Learning and plasticity
-* Motion and decisions
+* Motion and sensing
 * Memory, hippocampus, place and grid cells
-* Natural language
+* Natural language (~6 weeks)
 * Assemblies of neurons
 * On evolution and development
+
 
 Tentative topics:
 * The Other Brain (thalamus, cerebellum, glia, basal ganglia, spinal cord,…)
