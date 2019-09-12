@@ -11,8 +11,8 @@ There are many online resources that can be helpful for learning the content of 
 
 ## Slides for the Course
 
-* Week 1: [Lecture 1](/slides/lecture2.pdf)
-* Week 2:
+* Week 1: 
+* Week 2: [Lecture 2](/slides/Lecture2.pdf)
 * Week 3:
 
 
