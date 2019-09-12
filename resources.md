@@ -15,6 +15,10 @@ There are many online resources that can be helpful for learning the content of 
     * Computation and the Brain
     * Neuroscience background
 * Week 2: [Lecture 2](/slides/Lecture2.pdf)
+    * Brain recordings
+    * Grid cells, place cells
+    * Retina
+    * Vision in the cortex
 * Week 3:
 * Week 4:
 * Week 5:
