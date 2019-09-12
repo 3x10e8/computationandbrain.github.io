@@ -4,16 +4,25 @@ title: Resources
 permalink: /resources/
 ---
 
-There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on [Piazza](TBD) and we can add them here.
+There are many online resources that can be helpful for learning the content of this class. Here are a few.  If you find others, please post on the [Piazza course page](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience) and we can add them here.
 
 * TOC
 {:toc}
 
 ## Slides for the Course
 
-* Week 1: 
+* Week 1: [Lecture 1](/slides/Lecture1.pdf)
 * Week 2: [Lecture 2](/slides/Lecture2.pdf)
 * Week 3:
+* Week 4:
+* Week 5:
+* Week 6:
+* Week 7:
+* Week 8:
+* Week 9:
+* Week 10:
+* Week 11:
+* Week 12:
 
 
 ## Similar Courses/Related Material
