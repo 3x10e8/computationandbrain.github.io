@@ -12,6 +12,8 @@ There are many online resources that can be helpful for learning the content of 
 ## Slides for the Course
 
 * Week 1: [Lecture 1](/slides/Lecture1.pdf)
+    * Computation and the Brain
+    * Neuroscience background
 * Week 2: [Lecture 2](/slides/Lecture2.pdf)
 * Week 3:
 * Week 4:
