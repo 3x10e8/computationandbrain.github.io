@@ -22,11 +22,13 @@ permalink: /about/
     * Dan: Tuesdays, 1-2 pm, Computer Science Lounge (Mudd)
     * Jacob: Mondays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
+[Homework Page](/)
+
 [Piazza course page](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience)
 
 [Gradescope course page](https://www.gradescope.com/courses/61715)
 
-[Homework Page](/)
+
 
 ### Description
 
@@ -91,6 +93,6 @@ Keep in mind this is a graduate level topics course --- the class will be struct
 
 ### Homework assignments
 
-Grading will be done via [Gradescope](https://www.gradescope.com/courses/61715). Please sign up as per the instructions on [Piazza](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience). 
+The homework can be found [here](/).Grading will be done via [Gradescope](https://www.gradescope.com/courses/61715). Please sign up as per the instructions on [Piazza](https://piazza.com/columbia/fall2019/comse6998_004_2019_1topicsincomputerscience). 
 
 
