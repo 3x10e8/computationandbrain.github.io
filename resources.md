@@ -95,6 +95,8 @@ Some more domain-specific books:
 
 * [Biophysics of Computation (Koch - 1998)](https://web.a.ebscohost.com/ehost/detail/detail?nobk=y&vid=1&sid=e6bac797-f0dd-4ebb-9a96-7370961a05b9@sessionmgr4008&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=433880&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=koch+biophysics+of+computation&commit=Search))
 
+* [An Introduction to Modeling Neuronal Dynamics](https://link.springer.com/book/10.1007%2F978-3-319-51171-9) by Christoph Börgers (available via [CLIO](https://clio.columbia.edu/quicksearch?q=An+Introduction+to+Modeling+Neuronal+Dynamics&commit=Search)). This is a more technical text with a focus on neuronal and spiking models.
+
 ### The Brain and Computer Vision
 
 * [Vision (Marr 1982)](https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262514620.001.0001/upso-9780262514620) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=vision+David+Marr&commit=Search))
