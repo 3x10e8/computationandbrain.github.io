@@ -45,13 +45,15 @@ There are many online resources that can be helpful for learning the content of 
 
 * [Principles of Neural Science (Kandell, Schwartz, Jessell, Siegelbaum, Hudspeth, Mack)](https://neurology.mhmedical.com/book.aspx?bookID=1049) (available via [CLIO](https://clio.columbia.edu/))
 
+* [Fundamental Neuroscience (Squire)](https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20100650358) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=Fundamental+Neuroscience+Squire&commit=Search))
+
 ### Computational Neuroscience 
 
 * [The Computational Brain](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262533393.001.0001/upso-9780262533393) by Patricia Churchland and Terrence Sejnowski (available via [CLIO](https://clio.columbia.edu/))
 
 * [Theoretical Neuroscience (Dayan and Abbott - 2001)](https://www.amazon.com/Theoretical-Neuroscience-Computational-Mathematical-Modeling/dp/0262541858/ref=sr_1_1?s=books&ie=UTF8&qid=1535668549&sr=1-1&keywords=Theoretical+Neuroscience)
 
-* [Fundamental Neuroscience (Squire)](https://www.amazon.com/Fundamental-Neuroscience-Squire/dp/0123858704)
+
 
 * [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://web.a.ebscohost.com/ehost/detail/detail?vid=0&sid=75142395-15cd-4c4a-a066-541c587dd1c1%40sessionmgr4006&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=694160&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=fundamentals+of+computational+neuroscience+trappenberg&commit=Search))
 
