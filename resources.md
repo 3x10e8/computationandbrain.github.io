@@ -88,21 +88,21 @@ Some more domain-specific books:
 
 ### Information Theory and Neuroscience
 
-* [Spikes: Exploring the Neural Code (Rieke - 1999)](https://mitpress.mit.edu/books/spikes)
+* [Spikes: Exploring the Neural Code (Rieke - 1999)](https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=16bd8972-7c44-46ce-bf14-65bb1d14fd83%40pdc-v-sessmgr04&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=48760&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=Spikes%3A+exploring+the+neural+code&commit=Search))
 
 ### Biophysics and Neuroscience
 
-* [Biophysics of Computation (Koch - 1998)](https://www.amazon.com/Biophysics-Computation-Information-Computational-Neuroscience/dp/0195181999)
+* [Biophysics of Computation (Koch - 1998)](https://web.a.ebscohost.com/ehost/detail/detail?nobk=y&vid=1&sid=e6bac797-f0dd-4ebb-9a96-7370961a05b9@sessionmgr4008&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=433880&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=koch+biophysics+of+computation&commit=Search))
 
 ### The Brain and Computer Vision
 
-* [Vision (Marr 1982)](https://www.amazon.com/Vision-Computational-Investigation-Representation-Information/dp/0262514621/)
+* [Vision (Marr 1982)](https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262514620.001.0001/upso-9780262514620) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=vision+David+Marr&commit=Search))
 
 ### Statistical Physics and the Brain
 
-* [Modeling Brain Function (Amit - 1992)](https://www.amazon.com/Modeling-Brain-Function-Attractor-Networks/dp/0521421241)
+* [Modeling Brain Function (Amit - 1992)](https://www.amazon.com/Modeling-Brain-Function-Attractor-Networks/dp/0521421241) (Amazon)
 
-* [Introduction to the Theory of Neural Computation (Hertz, Krogh and Palmer - 1991)](https://content.taylorfrancis.com/books/download?dac=C2017-0-71760-0&isbn=9780429968211&format=googlePreviewPdf) (PDF available online)
+* [Introduction to the Theory of Neural Computation (Hertz, Krogh and Palmer - 1991)](https://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601) (Amazon)
 
 ### Dynamical Systems
 
