@@ -53,7 +53,7 @@ There are many online resources that can be helpful for learning the content of 
 
 * [Fundamental Neuroscience (Squire)](https://www.amazon.com/Fundamental-Neuroscience-Squire/dp/0123858704)
 
-* [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg-ebook/dp/B00F1D7K90)
+* [Fundamentals of Computational Neuroscience (Trappenberg - 2010)](https://web.a.ebscohost.com/ehost/detail/detail?vid=0&sid=75142395-15cd-4c4a-a066-541c587dd1c1%40sessionmgr4006&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=694160&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=fundamentals+of+computational+neuroscience+trappenberg&commit=Search))
 
 * [Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition (Gerstner, Paninski - 2014)](https://www.amazon.com/Neuronal-Dynamics-Neurons-Networks-Cognition/dp/1107635195)
 
@@ -64,12 +64,13 @@ There are many online resources that can be helpful for learning the content of 
 
 ### Reinforcement Learning
 
-* [Reinforcement Learning (Sutton and Barto 2018)](http://incompleteideas.net/book/the-book-2nd.html) The full pdf is available from the authors online. Chapter 15 is devoted to the connection between modern RL and neuroscience
+* [Reinforcement Learning (Sutton and Barto 2018)](http://incompleteideas.net/book/the-book-2nd.html) The full pdf is available from the authors online. 
+   - Note: Chapter 15 is devoted to the connection between modern RL and neuroscience
 
 ### Algorithms and Machine Learning
 
 * [Foundations of Data Science (Blum, Hopcroft, Kannan)](https://www.cs.cornell.edu/jeh/book.pdf)
-* [A Course in Machine Learning (Daumé III)](http://ciml.info/)
+* [A Course in Machine Learning (Daumé III)](http://ciml.info/) (The full book is available online)
 
 ### Complexity Theory 
 
@@ -82,9 +83,9 @@ Some more domain-specific books:
 
 * [The Computer and the Brain (von Neumann - 1947)](https://archive.org/details/TheComputerAndTheBrain) (pdf available online)
 
-* [Perceptrons (Minsky and Papert - 1969)](https://www.amazon.com/Perceptrons-Introduction-Computational-Geometry-Expanded/dp/0262631113/ref=sr_1_1?s=books&ie=UTF8&qid=1535669028&sr=1-1&keywords=perceptron+papert)
+* [Perceptrons (Minsky and Papert - 1969)](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/book/8076704) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=perceptrons+minsky+papert&commit=Search))
 
-* [Parallel Distributed Processing (Rumelhart, McClelland - 1986)](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-1)
+* [Parallel Distributed Processing (Rumelhart, McClelland - 1986)](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/book/6276825) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=Parallel+Distributed+Processing&commit=Search))
 
 ### Information Theory and Neuroscience
 
