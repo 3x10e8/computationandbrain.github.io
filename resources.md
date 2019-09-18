@@ -121,7 +121,7 @@ https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=81f0e4c8-7582-4250-b76
 ### Deep Learning
 
 * Michael Nielsen's [online book](http://neuralnetworksanddeeplearning.com)
-* [Deep Learning textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* [Deep Learning textbook](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. The full book is available online from the authors.
 * [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) from Stanford
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) lecture notes by Andrej Karpathy
 * [CS294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) Course on reinforcement learning by Sergey Levine
@@ -129,7 +129,7 @@ https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=81f0e4c8-7582-4250-b76
 ### Misc. Useful Links
 
 * [Compilation of resources for theoretical cs, machine learning, statistics, and more](https://kiranvodrahalli.github.io/links/#resources-notes-textbooks-monographs-classes-etc)
-* [Unsupervised Thinking Podcast](http://unsupervisedthinkingpodcast.blogspot.com/)
+* [Unsupervised Thinking Podcast](http://unsupervisedthinkingpodcast.blogspot.com/) A computational neuroscience podcast
 
 ### Cool Facts
 
@@ -139,8 +139,4 @@ https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=81f0e4c8-7582-4250-b76
 
 ![pyramidal logic]({{ site.url }}/assets/logic_pyramidal.png)
 
-## Papers
-
-* [Emergence of simple-cell receptive field properties by learning a sparse code for natural images (Olhausen and Field, 1996)](https://www.nature.com/articles/381607a0)
-* [Natural Stimulation of the Nonclassical Receptive Field Increases Information Transmission Efficiency in V1 (Vinje and Gallant, 2002)](http://www.jneurosci.org/content/22/7/2904.short)
 
