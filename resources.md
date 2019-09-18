@@ -80,7 +80,7 @@ Some more domain-specific books:
 
 ### Historical Books
 
-* [The Computer and the Brain (von Neumann - 1947)](https://archive.org/details/TheComputerAndTheBrain)
+* [The Computer and the Brain (von Neumann - 1947)](https://archive.org/details/TheComputerAndTheBrain) (pdf available online)
 
 * [Perceptrons (Minsky and Papert - 1969)](https://www.amazon.com/Perceptrons-Introduction-Computational-Geometry-Expanded/dp/0262631113/ref=sr_1_1?s=books&ie=UTF8&qid=1535669028&sr=1-1&keywords=perceptron+papert)
 
@@ -107,15 +107,15 @@ Some more domain-specific books:
 ### Dynamical Systems
 
 * [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting (Izhikevich - 2010)](
-https://www.amazon.com/Dynamical-Systems-Neuroscience-Excitability-Computational/dp/0262514206)
+https://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=81f0e4c8-7582-4250-b769-1fb9677e8169%40pdc-v-sessmgr03&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=175135&db=e025xna) (available via [CLIO](https://clio.columbia.edu/quicksearch?q=Dynamical+Systems+Neuroscience&commit=Search))
 
 ### Philosophy and Computation
 
-* [The Computational Brain (Churchland and Sejnowski - 1991)](https://www.amazon.com/Computational-Brain-Neuroscience/dp/0262031884/ref=sr_1_1?s=books&ie=UTF8&qid=1535668601&sr=1-1&keywords=computational+brain)
+* [The Computational Brain](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262533393.001.0001/upso-9780262533393) by Patricia Churchland and Terrence Sejnowski (available via [CLIO](https://clio.columbia.edu/)) 
 
 ### Bayesian Treatments 
 
-* [Bayesian Brain: Probabilistic Approaches to Neural Coding (Doya, Rao... - 2011)](https://www.amazon.com/Bayesian-Brain-Probabilistic-Computational-Neuroscience/dp/0262516012/ref=sr_1_7?s=books&ie=UTF8&qid=1535668690&sr=1-7&keywords=computational+brain)
+* [Bayesian Brain: Probabilistic Approaches to Neural Coding (Doya, Rao... - 2011)](https://www.amazon.com/Bayesian-Brain-Probabilistic-Computational-Neuroscience/dp/0262516012/ref=sr_1_7?s=books&ie=UTF8&qid=1535668690&sr=1-7&keywords=computational+brain) (Amazon)
 
 ### Deep Learning
 
