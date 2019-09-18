@@ -102,7 +102,7 @@ Some more domain-specific books:
 
 * [Modeling Brain Function (Amit - 1992)](https://www.amazon.com/Modeling-Brain-Function-Attractor-Networks/dp/0521421241)
 
-* [Introduction to the Theory of Neural Computation (Hertz, Krogh and Palmer - 1991)](https://www.amazon.com/Introduction-Theory-Neural-Computation-Institute/dp/0201515601/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=23T7DQP2M4SSSPY4A3KS)
+* [Introduction to the Theory of Neural Computation (Hertz, Krogh and Palmer - 1991)](https://content.taylorfrancis.com/books/download?dac=C2017-0-71760-0&isbn=9780429968211&format=googlePreviewPdf) (PDF available online)
 
 ### Dynamical Systems
 
