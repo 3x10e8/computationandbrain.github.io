@@ -19,7 +19,9 @@ There are many online resources that can be helpful for learning the content of 
     * Grid cells, place cells
     * Retina
     * Vision in the cortex
-* Week 3:
+* Week 3: [Lecture 3](/slides/Lecture3.pdf)
+    * Learning theory and the brain
+    * Neural Networks, SGD
 * Week 4:
 * Week 5:
 * Week 6:
