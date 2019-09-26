@@ -22,7 +22,9 @@ There are many online resources that can be helpful for learning the content of 
 * Week 3: [Lecture 3](/slides/Lecture3.pdf)
     * Learning theory and the brain
     * Neural Networks, SGD
-* Week 4:
+* Week 4: [Lecture 4](/slides/Lecture4.pdf)
+    * Graphs in the brain
+    * Plasticity
 * Week 5:
 * Week 6:
 * Week 7:
