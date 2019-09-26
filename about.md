@@ -18,7 +18,7 @@ permalink: /about/
 **Lecture:** Wed 4:10pm-6:40pm; 233 Mudd Hall, Columbia University
 
 * Office hours:
-    * Instructor: TBD 456 Computer Science Building
+    * Instructor: Thursdays 11 am - 12 pm  456 Computer Science Building
     * Dan: Tuesdays, 1-2 pm, Computer Science Lounge (Mudd)
     * Jacob: Mondays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
 
