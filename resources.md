@@ -24,8 +24,11 @@ There are many online resources that can be helpful for learning the content of 
     * Neural Networks, SGD
 * Week 4: [Lecture 4](/slides/Lecture4.pdf)
     * Graphs in the brain
+    * Plasticity, STDP
+* Week 5: [Lecture 5](/slides/Lecture5.pdf)
     * Plasticity
-* Week 5:
+    * Dynamics, Chaos
+    * FeedForward and Recurrent Networks
 * Week 6:
 * Week 7:
 * Week 8:
