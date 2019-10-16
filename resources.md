@@ -29,7 +29,12 @@ There are many online resources that can be helpful for learning the content of 
     * Plasticity
     * Dynamics, Chaos
     * FeedForward and Recurrent Networks
-* Week 6:
+* Week 6: [Lecture 6](/slides/Lecture6.pdf)
+    * Biologically plausible backpropagation
+    * Chaos, dynamical systems
+    * Hopfield Nets
+    * Motor Cortex and motor control
+    * Brain oscillations
 * Week 7:
 * Week 8:
 * Week 9:
