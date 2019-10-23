@@ -35,9 +35,14 @@ There are many online resources that can be helpful for learning the content of 
     * Hopfield Nets
     * Motor Cortex and motor control
     * Brain oscillations
-* Week 7:
+* Week 7: [Lecture 7](/slides/Lecture7.pdf)
+    * Auditory cortex
+    * RL in the brain
+    * Conditioning vs. Temporal differences
+    * Math of RL
+    * Deep RL and AlphaGo
 * Week 8:
-* Week 9:
+* Week 9:   
 * Week 10:
 * Week 11:
 * Week 12:
