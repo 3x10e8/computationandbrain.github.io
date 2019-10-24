@@ -41,7 +41,12 @@ There are many online resources that can be helpful for learning the content of 
     * Conditioning vs. Temporal differences
     * Math of RL
     * Deep RL and AlphaGo
-* Week 8:
+* Week 8: [Lecture 8](/slides/Lecture8.pdf)
+    * RL
+    * Review of Friederici sections 1.1-1.5
+    * Language overview
+    * Chomsky-Skinner debate, Chomsky hierarchy
+    * Poeppel experiment
 * Week 9:   
 * Week 10:
 * Week 11:
