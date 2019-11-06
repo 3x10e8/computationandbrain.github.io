@@ -47,7 +47,9 @@ There are many online resources that can be helpful for learning the content of 
     * Language overview
     * Chomsky-Skinner debate, Chomsky hierarchy
     * Poeppel experiment
-* Week 9:   
+* Week 9:   [Lecture 9](/slides/Lecture9.pdf)
+    * Dan M. Lecture
+    * Friederici review chapter 1
 * Week 10:
 * Week 11:
 * Week 12:
@@ -82,7 +84,7 @@ There are many online resources that can be helpful for learning the content of 
 * [Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition (Gerstner, Paninski - 2014)](https://www.amazon.com/Neuronal-Dynamics-Neurons-Networks-Cognition/dp/1107635195)
 
 ### Language and the Brain
-* [Language in Our Brain: The Origins of a Uniquely Human Capacity](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262036924.001.0001/upso-9780262036924) by Angela Friederici (available via [CLIO](https://clio.columbia.edu/))
+* [Language in Our Brain: The Origins of a Uniquely Human Capacity](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262036924.001.0001/upso-9780262036924) by Angela Friederici (available via [CLIO](https://clio.columbia.edu/)). Here is a 20 minute lecture that summarizes many topics in the book: [Big Ideas in Cognitive Neuroscience, CNS 2017: Angela Friederici](https://www.youtube.com/watch?v=1dfKX-OvjKs)  
 
 * [Why Only Us: Language and Evolution](https://mitpress-universitypressscholarship-com.ezproxy.cul.columbia.edu/view/10.7551/mitpress/9780262034241.001.0001/upso-9780262034241) by Robert Berwick and Noam Chomsky (available via [CLIO](https://clio.columbia.edu/))
 
