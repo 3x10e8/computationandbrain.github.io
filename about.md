@@ -20,7 +20,7 @@ permalink: /about/
 * Office hours:
     * Instructor: Thursdays 11 am - 12 pm,  456 Computer Science Building
     * Dan: Tuesdays, 1-2 pm, Computer Science Lounge (Mudd)
-    * Jacob: Mondays, 9-10 am, Joe's Coffee (@ Broadway and 120th Street)
+    * Jacob: Mondays, 6:15-7:15 pm, Joe's Coffee (@ Broadway and 120th Street)
 
 [Homework Page](/)
 
